@@ -159,11 +159,11 @@ body{
 	background-image:none;
 	background-repeat:no-repeat;
 	background-size:cover;	
-	background: linear-gradient(left , rgb(0, 0, 0) 1% , rgb(222, 17, 215) 7% , rgb(1, 64, 206) 25% , rgb(0, 0, 0) 80% , rgb(93, 238, 30) 83% , rgb(85, 9, 196) 85%);
-background: -o-linear-gradient(left , rgb(0, 0, 0) 1% , rgb(222, 17, 215) 7% , rgb(1, 64, 206) 25% , rgb(0, 0, 0) 80% , rgb(93, 238, 30) 83% , rgb(85, 9, 196) 85%);
-background: -ms-linear-gradient(left , rgb(0, 0, 0) 1% , rgb(222, 17, 215) 7% , rgb(1, 64, 206) 25% , rgb(0, 0, 0) 80% , rgb(93, 238, 30) 83% , rgb(85, 9, 196) 85%);
-background: -moz-linear-gradient(left , rgb(0, 0, 0) 1% , rgb(222, 17, 215) 7% , rgb(1, 64, 206) 25% , rgb(0, 0, 0) 80% , rgb(93, 238, 30) 83% , rgb(85, 9, 196) 85%);
-background: -webkit-linear-gradient(left , rgb(0, 0, 0) 1% , rgb(222, 17, 215) 7% , rgb(1, 64, 206) 25% , rgb(0, 0, 0) 80% , rgb(93, 238, 30) 83% , rgb(85, 9, 196) 85%);
+	background: linear-gradient(left , rgb(0, 0, 0) 1% , rgb(152, 8, 152) 16% , rgb(154, 168, 164) 44% , rgb(0, 0, 0) 62% , rgb(237, 48, 227) 71% , rgb(43, 69, 253) 83% , rgb(33, 10, 103) 99%);
+background: -o-linear-gradient(left , rgb(0, 0, 0) 1% , rgb(152, 8, 152) 16% , rgb(154, 168, 164) 44% , rgb(0, 0, 0) 62% , rgb(237, 48, 227) 71% , rgb(43, 69, 253) 83% , rgb(33, 10, 103) 99%);
+background: -ms-linear-gradient(left , rgb(0, 0, 0) 1% , rgb(152, 8, 152) 16% , rgb(154, 168, 164) 44% , rgb(0, 0, 0) 62% , rgb(237, 48, 227) 71% , rgb(43, 69, 253) 83% , rgb(33, 10, 103) 99%);
+background: -moz-linear-gradient(left , rgb(0, 0, 0) 1% , rgb(152, 8, 152) 16% , rgb(154, 168, 164) 44% , rgb(0, 0, 0) 62% , rgb(237, 48, 227) 71% , rgb(43, 69, 253) 83% , rgb(33, 10, 103) 99%);
+background: -webkit-linear-gradient(left , rgb(0, 0, 0) 1% , rgb(152, 8, 152) 16% , rgb(154, 168, 164) 44% , rgb(0, 0, 0) 62% , rgb(237, 48, 227) 71% , rgb(43, 69, 253) 83% , rgb(33, 10, 103) 99%);
 }
 
 
