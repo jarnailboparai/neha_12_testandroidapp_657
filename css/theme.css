@@ -159,11 +159,11 @@ body{
 	background-image:none;
 	background-repeat:no-repeat;
 	background-size:cover;	
-	background: linear-gradient(left , rgb(0, 0, 0) 1% , rgb(140, 98, 137) 4% , rgb(92, 156, 163) 5% , rgb(164, 173, 38) 11% , rgb(123, 91, 60) 13% , rgb(178, 45, 17) 14% , rgb(9, 184, 129) 15% , rgb(54, 220, 187) 44% , rgb(21, 198, 119) 48% , rgb(62, 134, 26) 56% , rgb(53, 247, 122) 61% , rgb(0, 0, 0) 80% , rgb(182, 71, 94) 91%);
-background: -o-linear-gradient(left , rgb(0, 0, 0) 1% , rgb(140, 98, 137) 4% , rgb(92, 156, 163) 5% , rgb(164, 173, 38) 11% , rgb(123, 91, 60) 13% , rgb(178, 45, 17) 14% , rgb(9, 184, 129) 15% , rgb(54, 220, 187) 44% , rgb(21, 198, 119) 48% , rgb(62, 134, 26) 56% , rgb(53, 247, 122) 61% , rgb(0, 0, 0) 80% , rgb(182, 71, 94) 91%);
-background: -ms-linear-gradient(left , rgb(0, 0, 0) 1% , rgb(140, 98, 137) 4% , rgb(92, 156, 163) 5% , rgb(164, 173, 38) 11% , rgb(123, 91, 60) 13% , rgb(178, 45, 17) 14% , rgb(9, 184, 129) 15% , rgb(54, 220, 187) 44% , rgb(21, 198, 119) 48% , rgb(62, 134, 26) 56% , rgb(53, 247, 122) 61% , rgb(0, 0, 0) 80% , rgb(182, 71, 94) 91%);
-background: -moz-linear-gradient(left , rgb(0, 0, 0) 1% , rgb(140, 98, 137) 4% , rgb(92, 156, 163) 5% , rgb(164, 173, 38) 11% , rgb(123, 91, 60) 13% , rgb(178, 45, 17) 14% , rgb(9, 184, 129) 15% , rgb(54, 220, 187) 44% , rgb(21, 198, 119) 48% , rgb(62, 134, 26) 56% , rgb(53, 247, 122) 61% , rgb(0, 0, 0) 80% , rgb(182, 71, 94) 91%);
-background: -webkit-linear-gradient(left , rgb(0, 0, 0) 1% , rgb(140, 98, 137) 4% , rgb(92, 156, 163) 5% , rgb(164, 173, 38) 11% , rgb(123, 91, 60) 13% , rgb(178, 45, 17) 14% , rgb(9, 184, 129) 15% , rgb(54, 220, 187) 44% , rgb(21, 198, 119) 48% , rgb(62, 134, 26) 56% , rgb(53, 247, 122) 61% , rgb(0, 0, 0) 80% , rgb(182, 71, 94) 91%);
+	background: linear-gradient(left , rgb(0, 0, 0) 1% , rgb(222, 17, 215) 7% , rgb(1, 64, 206) 25% , rgb(0, 0, 0) 80% , rgb(93, 238, 30) 83% , rgb(85, 9, 196) 85%);
+background: -o-linear-gradient(left , rgb(0, 0, 0) 1% , rgb(222, 17, 215) 7% , rgb(1, 64, 206) 25% , rgb(0, 0, 0) 80% , rgb(93, 238, 30) 83% , rgb(85, 9, 196) 85%);
+background: -ms-linear-gradient(left , rgb(0, 0, 0) 1% , rgb(222, 17, 215) 7% , rgb(1, 64, 206) 25% , rgb(0, 0, 0) 80% , rgb(93, 238, 30) 83% , rgb(85, 9, 196) 85%);
+background: -moz-linear-gradient(left , rgb(0, 0, 0) 1% , rgb(222, 17, 215) 7% , rgb(1, 64, 206) 25% , rgb(0, 0, 0) 80% , rgb(93, 238, 30) 83% , rgb(85, 9, 196) 85%);
+background: -webkit-linear-gradient(left , rgb(0, 0, 0) 1% , rgb(222, 17, 215) 7% , rgb(1, 64, 206) 25% , rgb(0, 0, 0) 80% , rgb(93, 238, 30) 83% , rgb(85, 9, 196) 85%);
 }
 
 
